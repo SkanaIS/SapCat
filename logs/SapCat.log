@@ -1,0 +1,1051 @@
+[2025-01-11T13:14:04.851] [INFO] SapCat - Hello
+[2025-01-11T13:14:15.129] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /afasfa
+[2025-01-11T13:14:15.130] [DEBUG] SapCat - /afasfa
+[2025-01-11T13:34:18.160] [INFO] SapCat - Hello
+[2025-01-11T13:34:30.629] [INFO] SapCat - Hello
+[2025-01-11T13:36:10.650] [INFO] SapCat - Hello
+[2025-01-11T13:37:08.375] [INFO] SapCat - Hello
+[2025-01-11T13:37:45.037] [INFO] SapCat - Hello
+[2025-01-11T13:38:13.036] [INFO] SapCat - Hello
+[2025-01-11T13:39:06.842] [INFO] SapCat - Hello
+[2025-01-11T13:41:01.830] [INFO] SapCat - Hello
+[2025-01-11T13:41:16.658] [INFO] SapCat - Hello
+[2025-01-11T13:43:55.318] [INFO] SapCat - Hello
+[2025-01-11T13:44:24.671] [INFO] SapCat - Hello
+[2025-01-11T13:44:43.706] [INFO] SapCat - Hello
+[2025-01-11T13:46:48.823] [INFO] SapCat - Hello
+[2025-01-11T13:54:41.576] [INFO] SapCat - Hello
+[2025-01-11T13:54:51.624] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /fuck
+[2025-01-11T13:56:04.521] [INFO] SapCat - Hello
+[2025-01-11T13:56:10.656] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /fuck
+[2025-01-11T13:56:10.656] [DEBUG] SapCat - [ '' ]
+[2025-01-11T13:56:51.192] [INFO] SapCat - Hello
+[2025-01-11T13:56:57.803] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /afwafa
+[2025-01-11T13:56:57.804] [DEBUG] SapCat - 
+[2025-01-11T13:56:57.804] [DEBUG] SapCat - [ '' ]
+[2025-01-11T13:57:36.280] [INFO] SapCat - Hello
+[2025-01-11T13:57:40.480] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /afwaa
+[2025-01-11T13:57:40.481] [DEBUG] SapCat - 
+[2025-01-11T13:57:40.481] [DEBUG] SapCat - [ '' ]
+[2025-01-11T13:59:34.763] [INFO] SapCat - Hello
+[2025-01-11T13:59:39.126] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /test
+[2025-01-11T13:59:39.127] [DEBUG] SapCat - [CQ:at,qq=3636990074] /test
+[2025-01-11T13:59:39.127] [DEBUG] SapCat - [ '/test' ]
+[2025-01-11T14:00:13.996] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=1972782109][CQ:at,qq=3636990074] /test
+[2025-01-11T14:00:13.997] [DEBUG] SapCat - [
+  '[CQ:reply,id=1972782109]',
+  '1972782109',
+  index: 0,
+  input: '[CQ:reply,id=1972782109][CQ:at,qq=3636990074] /test',
+  groups: undefined
+]
+[2025-01-11T14:00:13.997] [DEBUG] SapCat - [CQ:at,qq=3636990074] /test 1972782109
+[2025-01-11T14:00:13.997] [DEBUG] SapCat - [ '/test', '1972782109' ]
+[2025-01-11T14:01:51.578] [INFO] SapCat - Hello
+[2025-01-11T14:01:54.754] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : 111
+[2025-01-11T14:01:59.840] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : 111
+[2025-01-11T14:02:03.418] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /te
+[2025-01-11T14:02:03.418] [DEBUG] SapCat - [ '/te' ]
+[2025-01-11T14:02:14.460] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=314722095][CQ:at,qq=3636990074] /te
+[2025-01-11T14:02:14.460] [DEBUG] SapCat - [ '/te', '314722095' ]
+[2025-01-11T14:05:32.438] [INFO] SapCat - Hello
+[2025-01-11T14:05:40.981] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /test
+[2025-01-11T14:05:40.982] [DEBUG] SapCat - [ '/test' ]
+[2025-01-11T14:05:48.093] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=1965906929]/test
+[2025-01-11T14:05:56.095] [INFO] SapCat - 📣 #群聊# 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=1965906929][CQ:at,qq=3636990074] /test
+[2025-01-11T14:05:56.096] [DEBUG] SapCat - [ '/test', '1965906929' ]
+[2025-01-11T14:06:03.118] [INFO] SapCat - 📣 #私聊# 轻羽Feath(2641213764) : /test
+[2025-01-11T14:06:03.119] [DEBUG] SapCat - [ '/test' ]
+[2025-01-11T14:06:09.865] [INFO] SapCat - 📣 #私聊# 轻羽Feath(2641213764) : [CQ:reply,id=1026251991]/test
+[2025-01-11T14:06:09.865] [DEBUG] SapCat - [ '/test', '1026251991' ]
+[2025-01-11T14:30:10.455] [INFO] SapCat - Hello
+[2025-01-11T14:30:22.947] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall
+[2025-01-11T14:30:22.947] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T14:30:22.948] [INFO] Plugin - ✨ 指令执行 # undefined => 
+[2025-01-11T14:31:34.572] [INFO] SapCat - Hello
+[2025-01-11T14:31:38.574] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : 1
+[2025-01-11T14:31:43.527] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall
+[2025-01-11T14:31:43.528] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T14:31:43.528] [INFO] Plugin - ✨ 指令执行 # undefined => 
+[2025-01-11T14:32:01.297] [INFO] SapCat - Hello
+[2025-01-11T14:32:05.657] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /test
+[2025-01-11T14:32:05.658] [DEBUG] SapCat - [ '/test' ]
+[2025-01-11T14:32:05.658] [INFO] Plugin - ✨ 指令执行 # undefined => 
+[2025-01-11T14:32:35.863] [INFO] SapCat - Hello
+[2025-01-11T14:32:38.285] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /test
+[2025-01-11T14:32:38.285] [DEBUG] SapCat - [ '/test' ]
+[2025-01-11T14:32:38.286] [INFO] Plugin - ✨ 指令执行 # undefined => 
+[2025-01-11T14:33:28.312] [INFO] SapCat - Hello
+[2025-01-11T14:33:32.800] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /test
+[2025-01-11T14:33:32.800] [DEBUG] SapCat - [ '/test' ]
+[2025-01-11T14:33:32.801] [INFO] Plugin - ✨ 指令执行 # /test => 
+[2025-01-11T14:35:37.794] [INFO] SapCat - Hello
+[2025-01-11T14:35:41.797] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /test
+[2025-01-11T14:35:41.798] [DEBUG] SapCat - [ '/test' ]
+[2025-01-11T14:35:41.798] [INFO] Plugin - ✨ 指令执行 # /test => 
+[2025-01-11T14:36:32.976] [INFO] SapCat - Hello
+[2025-01-11T14:36:35.852] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T14:36:35.853] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T14:36:35.854] [INFO] Plugin - ✨ 指令执行 # 1 => 
+[2025-01-11T14:37:09.449] [INFO] SapCat - Hello
+[2025-01-11T14:37:11.774] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T14:37:11.774] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T14:37:11.775] [DEBUG] Plugin - 
+[2025-01-11T14:37:11.775] [INFO] Plugin - ✨ 指令执行 # 1 => 
+[2025-01-11T14:37:50.356] [INFO] SapCat - Hello
+[2025-01-11T14:37:52.835] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T14:37:52.835] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T14:37:52.836] [INFO] Plugin - ✨ 指令执行 # 1 => 1111
+[2025-01-11T14:38:10.992] [INFO] SapCat - Hello
+[2025-01-11T14:38:12.690] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T14:38:12.690] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T14:38:12.690] [INFO] Plugin - ✨ 指令执行 # 1 => 1111
+[2025-01-11T14:40:15.117] [INFO] SapCat - Hello
+[2025-01-11T14:40:17.755] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T14:40:17.756] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T14:40:17.756] [INFO] Plugin - ✨ 指令执行 # 1 => 1111
+[2025-01-11T14:40:55.284] [INFO] SapCat - Hello
+[2025-01-11T14:40:58.031] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T14:40:58.032] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T14:40:58.033] [INFO] Plugin - ✨ 指令执行 # 1 => 1111
+[2025-01-11T14:40:58.039] [ERROR] Plugin - {
+  status: 'failed',
+  retcode: 1200,
+  data: null,
+  message: "Cannot read properties of undefined (reading 'type')",
+  wording: "Cannot read properties of undefined (reading 'type')",
+  echo: '8-JSVCb7s0ECJsZ0HzMKC'
+}
+[2025-01-11T14:42:33.344] [INFO] SapCat - Hello
+[2025-01-11T14:42:35.652] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T14:42:35.653] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T14:42:35.653] [INFO] Plugin - ✨ 指令执行 # 1 => 1111
+[2025-01-11T14:42:35.660] [ERROR] Plugin - {
+  status: 'failed',
+  retcode: 1200,
+  data: null,
+  message: "Cannot read properties of undefined (reading 'type')",
+  wording: "Cannot read properties of undefined (reading 'type')",
+  echo: 'kT2_x6a369ytCZ_ow5Q5C'
+}
+[2025-01-11T14:43:16.225] [INFO] SapCat - Hello
+[2025-01-11T14:43:19.146] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T14:43:19.146] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T14:43:19.147] [INFO] Plugin - ✨ 指令执行 # 1 => 1111
+[2025-01-11T14:46:23.176] [INFO] SapCat - Hello
+[2025-01-11T14:48:22.062] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T14:48:45.185] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=1336931788][CQ:at,qq=3636990074] /recall
+[2025-01-11T14:48:45.186] [DEBUG] SapCat - [ '/recall', '1336931788' ]
+[2025-01-11T14:48:45.186] [INFO] Plugin - ✨ 指令执行 # /recall => 撤回测试
+[2025-01-11T14:51:12.541] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T14:51:20.502] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=238519865][CQ:at,qq=3636990074] /recall
+[2025-01-11T14:51:20.503] [DEBUG] SapCat - [ '/recall', '238519865' ]
+[2025-01-11T14:51:20.503] [INFO] Plugin - ✨ 指令执行 # /recall => 撤回测试
+[2025-01-11T15:36:51.244] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T15:50:31.605] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T15:50:50.741] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T15:51:45.953] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T15:51:47.545] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T15:55:04.031] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T15:55:06.289] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T15:55:06.290] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T15:55:06.290] [INFO] Plugin - ✨ 指令执行 # 1 => 未定义的指令。
+[2025-01-11T15:55:16.447] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T15:55:16.448] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T15:55:16.448] [INFO] Plugin - ✨ 指令执行 # /recall => 未定义的指令。
+[2025-01-11T15:56:18.869] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : [CQ:reply,id=1305984195]/recall
+[2025-01-11T15:56:18.870] [DEBUG] SapCat - [ '/recall', '1305984195' ]
+[2025-01-11T15:56:18.871] [INFO] Plugin - ✨ 指令执行 # /recall => 未定义的指令。
+[2025-01-11T15:56:39.794] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T15:56:42.975] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T15:56:42.976] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T15:56:42.976] [INFO] Plugin - ✨ 指令执行 # 1 => 未定义的指令。
+[2025-01-11T15:56:46.484] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : [CQ:reply,id=301983446]/recall
+[2025-01-11T15:56:46.484] [DEBUG] SapCat - [ '/recall', '301983446' ]
+[2025-01-11T15:56:46.485] [INFO] Plugin - ✨ 指令执行 # /recall => 未定义的指令。
+[2025-01-11T15:57:33.119] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T15:57:37.839] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : [CQ:reply,id=419313036]/recall
+[2025-01-11T15:57:37.839] [DEBUG] SapCat - [ '/recall', '419313036' ]
+[2025-01-11T15:57:37.840] [INFO] Plugin - ✨ 指令执行 # /recall => 撤回测试
+[2025-01-11T15:57:42.796] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T15:57:42.796] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T15:57:42.797] [INFO] Plugin - ✨ 指令执行 # /recall => 参数错误。
+[2025-01-11T15:57:50.130] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /
+[2025-01-11T15:57:50.131] [DEBUG] SapCat - [ '/' ]
+[2025-01-11T15:57:50.132] [INFO] Plugin - ✨ 指令执行 # / => 未定义的指令。
+[2025-01-11T15:58:45.179] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T15:58:53.904] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : [CQ:reply,id=437276224]/recall
+[2025-01-11T15:58:53.905] [DEBUG] SapCat - [ '/recall', '437276224' ]
+[2025-01-11T15:58:53.908] [INFO] Plugin - ✨ 指令执行 # /recall => 
+[2025-01-11T15:59:18.160] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : [CQ:reply,id=17849811]/recall
+[2025-01-11T15:59:18.160] [DEBUG] SapCat - [ '/recall', '17849811' ]
+[2025-01-11T15:59:18.161] [INFO] Plugin - ✨ 指令执行 # /recall => 
+[2025-01-11T16:03:27.854] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T16:03:36.583] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /acafdas
+[2025-01-11T16:03:36.584] [DEBUG] SapCat - [ '/acafdas' ]
+[2025-01-11T16:04:32.527] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T16:04:36.215] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /fafsafa
+[2025-01-11T16:04:36.216] [DEBUG] SapCat - [ '/fafsafa' ]
+[2025-01-11T16:04:39.232] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T16:04:39.233] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T16:04:39.234] [INFO] Plugin - ✨ 指令执行 # /recall => 参数错误。
+[2025-01-11T16:04:39.522] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:image,file=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536353831303039353839373538357c373435383536353831303039353839373538347c4568526d497733474254554d2d3370545f395372393470463946563474786a624f43445f43696a4c73756a4d6d75324b417a494563484a765a46434176614d425768436d6c4f586e70564969616a412d716e6a7672324b31.BAF2EFD2161E991A1FD033B5344A01DF.png,sub_type=0,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536353831303039353839373538357c373435383536353831303039353839373538347c4568526d497733474254554d2d3370545f395372393470463946563474786a624f43445f43696a4c73756a4d6d75324b417a494563484a765a46434176614d425768436d6c4f586e70564969616a412d716e6a7672324b31.BAF2EFD2161E991A1FD033B5344A01DF.png,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhRmIw3GBTUM-3pT_9Sr94pF9FV4txjbOCD_CijLsujMmu2KAzIEcHJvZFCAvaMBWhCmlOXnpVIiajA-qnjvr2K1&rkey=CAMSKMa3OFokB_TlY4Dfk5-D7IPCtd89uCqrKEfm-A9czlli1v9OjrSDaU0,file_size=7259,file_unique=baf2efd2161e991a1fd033b5344a01df]
+[2025-01-11T16:05:00.695] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 草
+[2025-01-11T16:05:16.231] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:image,file=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536353936393437313034313131397c373435383536353936393437313034313131387c4568516c6149796e6b667a5273774f58434d307a4a595f2d7061724e665269774b43445f43696a4f6f7150656d75324b417a494563484a765a46434176614d425768424e4f643235466d7741463473414441715853746269.A238BCC9AD278204FF3EEDF5B1F01F2E.png,sub_type=0,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536353936393437313034313131397c373435383536353936393437313034313131387c4568516c6149796e6b667a5273774f58434d307a4a595f2d7061724e665269774b43445f43696a4f6f7150656d75324b417a494563484a765a46434176614d425768424e4f643235466d7741463473414441715853746269.A238BCC9AD278204FF3EEDF5B1F01F2E.png,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhQlaIynkfzRswOXCM0zJY_-parNfRiwKCD_CijOoqPemu2KAzIEcHJvZFCAvaMBWhBNOd25FmwAF4sADAqXStbi&rkey=CAMSKMa3OFokB_TlY4Dfk5-D7IPCtd89uCqrKEfm-A9czlli1v9OjrSDaU0,file_size=5168,file_unique=a238bcc9ad278204ff3eedf5b1f01f2e]
+[2025-01-11T16:07:12.844] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:image,file=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536363436363334353339353935317c373435383536363436363334353339353935307c456851753548435f6e4f51754b4969636233496a2d47434f6d516566665269755379445f43696970355f57566d2d324b417a494563484a765a46434176614d425768425947767a6947586441776f6547704538345062772d.EE5089EEC9D0A9DBF9C88C3333C8B347.png,sub_type=0,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536363436363334353339353935317c373435383536363436363334353339353935307c456851753548435f6e4f51754b4969636233496a2d47434f6d516566665269755379445f43696970355f57566d2d324b417a494563484a765a46434176614d425768425947767a6947586441776f6547704538345062772d.EE5089EEC9D0A9DBF9C88C3333C8B347.png,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhQu5HC_nOQuKIicb3Ij-GCOmQeffRiuSyD_Ciip5_WVm-2KAzIEcHJvZFCAvaMBWhBYGvziGXdAwoeGpE84Pbw-&rkey=CAMSKMa3OFokB_TlY4Dfk5-D7IPCtd89uCqrKEfm-A9czlli1v9OjrSDaU0,file_size=9646,file_unique=ee5089eec9d0a9dbf9c88c3333c8b347]
+[2025-01-11T16:07:26.849] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:image,file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536363532363131303430303831347c373435383536363532363131303430303831337c45685371466e4576667479784d5653564a716667526a694635484e6c6f786a73775130675f776f6f746f69316e4a767469674d794248427962325251674c326a41566f51706b624c384d6b4a4d554c5749466739313455566b41.9F65D1880C9882EF0927A8D134D9FEEE.png,sub_type=0,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536363532363131303430303831347c373435383536363532363131303430303831337c45685371466e4576667479784d5653564a716667526a694635484e6c6f786a73775130675f776f6f746f69316e4a767469674d794248427962325251674c326a41566f51706b624c384d6b4a4d554c5749466739313455566b41.9F65D1880C9882EF0927A8D134D9FEEE.png,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSqFnEvftyxMVSVJqfgRjiF5HNloxjswQ0g_wootoi1nJvtigMyBHByb2RQgL2jAVoQpkbL8MkJMULWIFg914UVkA&rkey=CAMSKMa3OFokB_TlY4Dfk5-D7IPCtd89uCqrKEfm-A9czlli1v9OjrSDaU0,file_size=221420,file_unique=9f65d1880c9882ef0927a8d134d9feee]
+[2025-01-11T16:07:29.976] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : shrimp211.cn:23333
+[2025-01-11T16:08:35.799] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 草
+[2025-01-11T16:08:36.083] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:image,file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536363832343231313139343339347c373435383536363832343231313139343339337c4568524455647953745a4137777537437644766a53703053504b463571426a566b416f675f776f6f6c754b30765a767469674d794248427962325251674c326a41566f517931675938424c58474f4a52784c5756593447333567.120718A02D4EB68ABA6C9DE6A32AF69A.png,sub_type=0,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383536363832343231313139343339347c373435383536363832343231313139343339337c4568524455647953745a4137777537437644766a53703053504b463571426a566b416f675f776f6f6c754b30765a767469674d794248427962325251674c326a41566f517931675938424c58474f4a52784c5756593447333567.120718A02D4EB68ABA6C9DE6A32AF69A.png,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhRDUdyStZA7wu7CvDvjSp0SPKF5qBjVkAog_wooluK0vZvtigMyBHByb2RQgL2jAVoQy1gY8BLXGOJRxLWVY4G35g&rkey=CAMSKMa3OFokB_TlY4Dfk5-D7IPCtd89uCqrKEfm-A9czlli1v9OjrSDaU0,file_size=165973,file_unique=120718a02d4eb68aba6c9de6a32af69a]
+[2025-01-11T16:23:29.091] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T16:23:41.331] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /a
+[2025-01-11T16:23:41.331] [DEBUG] SapCat - [ '/a' ]
+[2025-01-11T16:23:41.332] [INFO] Plugin - ✨ 指令执行 # /a => [object Promise]
+[2025-01-11T16:23:48.603] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : wtf
+[2025-01-11T16:23:52.383] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=1374062203][CQ:at,qq=3636990074] /recall
+[2025-01-11T16:31:10.972] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T16:31:17.847] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /aaa
+[2025-01-11T16:32:29.708] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T16:33:16.062] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T16:33:19.322] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /aaa
+[2025-01-11T16:33:19.323] [DEBUG] SapCat - [ '/aaa' ]
+[2025-01-11T16:33:19.324] [INFO] Plugin - ✨ 指令执行 # /aaa => [object Promise]
+[2025-01-11T16:35:04.821] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T16:35:07.509] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /aaaa
+[2025-01-11T16:35:07.510] [DEBUG] SapCat - [ '/aaaa' ]
+[2025-01-11T16:35:07.510] [INFO] Plugin - ✨ 指令执行 # /aaaa => [object Promise]
+[2025-01-11T16:38:52.898] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=656110422]
+[2025-01-11T16:38:56.633] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : liveshare来不来
+[2025-01-11T17:05:33.000] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:05:39.103] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /afwaf
+[2025-01-11T17:05:39.104] [DEBUG] SapCat - [ '/afwaf' ]
+[2025-01-11T17:05:39.104] [INFO] Plugin - ✨ 指令执行 # /afwaf => [object Promise]
+[2025-01-11T17:06:21.783] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:06:29.464] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /afafaf
+[2025-01-11T17:06:29.465] [DEBUG] SapCat - [ '/afafaf' ]
+[2025-01-11T17:06:29.465] [DEBUG] SapCat - Promise {
+  '无结果',
+  [Symbol(async_id_symbol)]: 5090,
+  [Symbol(trigger_async_id_symbol)]: 5084
+}
+[2025-01-11T17:06:29.466] [INFO] Plugin - ✨ 指令执行 # /afafaf => [object Promise]
+[2025-01-11T17:07:07.194] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:07:10.799] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /afafa
+[2025-01-11T17:07:10.800] [DEBUG] SapCat - [ '/afafa' ]
+[2025-01-11T17:07:10.800] [DEBUG] SapCat - 无结果
+[2025-01-11T17:07:10.801] [INFO] Plugin - ✨ 指令执行 # /afafa => 无结果
+[2025-01-11T17:09:40.756] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:10:18.549] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:10:18.549] [DEBUG] SapCat - [ '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T17:11:28.544] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:11:38.599] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:11:38.600] [DEBUG] SapCat - [ '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T17:12:24.607] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:12:31.856] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074]  /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:12:31.857] [DEBUG] SapCat - [ '', '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T17:13:02.502] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074]  /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:13:02.503] [DEBUG] SapCat - [ '', '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T17:14:37.887] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163 30612793
+[2025-01-11T17:14:37.887] [DEBUG] SapCat - [ '/music163', '30612793' ]
+[2025-01-11T17:14:38.752] [INFO] Plugin - ✨ 指令执行 # /music163 => [CQ:image,file=https://p3.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg?param=320y320,type=show,id=40004]解析成功。
+歌曲名：多远都要在一起
+艺术家：G.E.M.邓紫棋
+专辑：新的心跳
+音质：高清环绕声 (Spatial Audio)
+封面Url：https://p3.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg?param=320y320
+-------------------
+歌曲Url：https://m701.music.126.net/20250111173937/a79f13a483b2830b61f85e5f6a9bf1a7/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/26284272320/f4b6/06f9/fe55/6c82c72cd93dfe61ee9c0879639d09af.flac?vuutv=Yot4TylpQnCEp5WnA21VHPacIuadhtKVfvw9+XkfJuKOAJCYvqsM5iM6NIfIhipNR33UdykvTasnjxxKLHGfIE27oofDEgv5bbEe9sPKFfk=
+歌曲时长：03:37
+歌曲大小：75.33MB
+歌曲格式：flac
+[2025-01-11T17:15:24.480] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : @Mahiro Project /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:15:34.236] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:15:34.237] [DEBUG] SapCat - [ '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T17:17:11.308] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:17:16.453] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:17:16.454] [DEBUG] SapCat - [ '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T17:17:17.358] [INFO] Plugin - ✨ 指令执行 # /music163 => [CQ:image,file=https://p3.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg?param=320y320,type=show,id=40004]解析成功。
+歌曲名：多远都要在一起
+艺术家：G.E.M.邓紫棋
+专辑：新的心跳
+音质：高清环绕声 (Spatial Audio)
+封面Url：https://p3.music.126.net/kVwk6b8Qdya8oDyGDcyAVA==/1364493930777368.jpg?param=320y320
+-------------------
+歌曲Url：https://m701.music.126.net/20250111174215/2a5b12f90b391ba200191715aa5436a5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/26284272320/f4b6/06f9/fe55/6c82c72cd93dfe61ee9c0879639d09af.flac?vuutv=7GoklPQckS58/abqMUpzkZ3C4GE4baFJdGUE813KcyChCKnAsvqnbDJVlYELqmpvehn/UzhUPMZrNBLWYxj/xgSiCna8nhZO7CRcg9maDKg=
+歌曲时长：03:37
+歌曲大小：75.33MB
+歌曲格式：flac
+[2025-01-11T17:17:30.686] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163       https://music.163.com/#/song?id=30612793
+[2025-01-11T17:17:30.686] [DEBUG] SapCat - [
+  '/music163',
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
+  'https://music.163.com/#/song?id=30612793'
+]
+[2025-01-11T17:17:30.687] [INFO] Plugin - ✨ 指令执行 # /music163 => 参数错误。
+[2025-01-11T17:36:13.560] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:36:34.556] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:36:34.556] [DEBUG] SapCat - [ '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T17:36:35.440] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T17:40:29.926] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:40:38.422] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T17:40:38.423] [DEBUG] SapCat - [ '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T17:40:39.244] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T17:41:33.057] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:41:43.553] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : 1
+[2025-01-11T17:41:50.800] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /aaa
+[2025-01-11T17:41:50.801] [DEBUG] SapCat - [ '/aaa' ]
+[2025-01-11T17:41:56.972] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall
+[2025-01-11T17:41:56.972] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T17:41:56.973] [INFO] Plugin - ✨ 指令执行 # /recall => [object Object]
+[2025-01-11T17:42:02.878] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall 11
+[2025-01-11T17:43:28.741] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:43:35.893] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall 1111
+[2025-01-11T17:45:23.015] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:48:22.331] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:48:33.805] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall 1111
+[2025-01-11T17:49:34.209] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T17:49:39.216] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=310948629][CQ:at,qq=3636990074] /recall
+[2025-01-11T17:49:39.217] [DEBUG] SapCat - [ '/recall', '310948629' ]
+[2025-01-11T18:01:37.294] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:01:53.758] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall 111
+[2025-01-11T18:02:33.875] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:02:39.831] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall 111
+[2025-01-11T18:02:39.832] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T18:04:26.765] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:04:32.053] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall 111
+[2025-01-11T18:04:32.053] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T18:04:44.503] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:04:49.450] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall 111
+[2025-01-11T18:04:49.451] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T18:08:23.527] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:08:32.419] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=310948629][CQ:at,qq=3636990074] /recall
+[2025-01-11T18:08:32.420] [DEBUG] SapCat - [ '/recall', '310948629' ]
+[2025-01-11T18:08:47.614] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:08:53.573] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=310948629][CQ:at,qq=3636990074] /recall
+[2025-01-11T18:08:53.573] [DEBUG] SapCat - [ '/recall', '310948629' ]
+[2025-01-11T18:09:23.622] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:09:30.178] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=310948629][CQ:at,qq=3636990074] /recall
+[2025-01-11T18:09:30.178] [DEBUG] SapCat - [ '/recall', '310948629' ]
+[2025-01-11T18:09:51.624] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:10:01.940] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=310948629][CQ:at,qq=3636990074] /recall
+[2025-01-11T18:10:01.941] [DEBUG] SapCat - [ '/recall', '310948629' ]
+[2025-01-11T18:10:25.138] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:reply,id=1603051031][CQ:at,qq=3636990074] /recall
+[2025-01-11T18:10:25.139] [DEBUG] SapCat - [ '/recall', '1603051031' ]
+[2025-01-11T18:15:21.960] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:17:40.237] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T18:17:47.695] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /aaaa
+[2025-01-11T18:17:47.695] [DEBUG] SapCat - [ '/aaaa' ]
+[2025-01-11T18:17:59.295] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /recall
+[2025-01-11T18:17:59.296] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T18:17:59.297] [INFO] Plugin - ✨ 指令执行 # /recall => [object Object]
+[2025-01-11T18:18:14.108] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ABC(283654129) : [CQ:at,qq=3636990074] /music163 https://music.163.com/#/song?id=30612793
+[2025-01-11T18:18:14.109] [DEBUG] SapCat - [ '/music163', 'https://music.163.com/#/song?id=30612793' ]
+[2025-01-11T18:18:14.982] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T19:34:49.136] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:34:57.676] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /aaaa
+[2025-01-11T19:34:57.677] [DEBUG] SapCat - [ '/aaaa' ]
+[2025-01-11T19:35:02.521] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T19:38:40.553] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:38:45.587] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T19:40:22.237] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:40:26.460] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T19:41:18.265] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:41:21.231] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T19:41:21.232] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T19:41:57.797] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:42:01.725] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T19:42:01.726] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T19:42:01.727] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T19:42:53.990] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:42:56.196] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T19:42:56.196] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T19:42:56.197] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T19:42:56.197] [DEBUG] Plugin - [ '/recall' ] 参数错误。
+[2025-01-11T19:43:50.490] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:43:53.278] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T19:43:53.279] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T19:43:53.280] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T19:43:53.281] [INFO] Plugin - ✨ 指令执行 # /recall => [object Object]
+[2025-01-11T19:43:57.862] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T19:43:57.862] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T19:43:57.863] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T19:46:42.811] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:46:45.642] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T19:46:45.642] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T19:46:45.643] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T19:47:14.274] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:47:18.051] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : aw
+[2025-01-11T19:47:18.052] [DEBUG] SapCat - [ 'aw' ]
+[2025-01-11T19:47:18.052] [DEBUG] Plugin - [ 'aw' ]
+[2025-01-11T19:47:20.583] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /aaaa
+[2025-01-11T19:47:20.583] [DEBUG] SapCat - [ '/aaaa' ]
+[2025-01-11T19:47:20.584] [DEBUG] Plugin - [ '/aaaa' ]
+[2025-01-11T19:47:31.903] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /111
+[2025-01-11T19:47:31.903] [DEBUG] SapCat - [ '/111' ]
+[2025-01-11T19:47:31.904] [DEBUG] Plugin - [ '/111' ]
+[2025-01-11T19:47:36.970] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T19:47:36.971] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T19:47:36.971] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T19:47:36.974] [DEBUG] Plugin - fowiejgiohqihwofiohfiohfwhofqlffffqwih
+[2025-01-11T19:48:09.956] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:48:15.321] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T19:48:15.322] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T19:48:15.322] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T19:48:15.325] [DEBUG] Plugin - 114514
+[2025-01-11T19:48:37.964] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:48:43.212] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall `1
+[2025-01-11T19:48:43.213] [DEBUG] SapCat - [ '/recall', '`1' ]
+[2025-01-11T19:48:43.213] [DEBUG] Plugin - [ '/recall', '`1' ]
+[2025-01-11T19:48:43.216] [DEBUG] Plugin - null
+[2025-01-11T19:49:01.257] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:49:06.964] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T19:49:06.965] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T19:49:06.965] [DEBUG] Plugin - [ '/recall', '111' ]
+[2025-01-11T19:49:06.969] [DEBUG] Plugin - null
+[2025-01-11T19:49:26.498] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:49:30.221] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T19:49:30.222] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T19:49:30.222] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T19:50:39.245] [DEBUG] Plugin - [ { type: 'text', data: { text: '参数错误。' } } ]
+[2025-01-11T19:50:39.246] [INFO] Plugin - ✨ 指令执行 # /recall => [object Object]
+[2025-01-11T19:50:53.922] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:50:58.537] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T19:53:50.859] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:53:55.480] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T19:55:18.602] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:55:22.299] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T19:56:32.689] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:56:36.011] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T19:56:36.012] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T19:56:36.013] [DEBUG] Plugin - [ '/recall', '111' ]
+[2025-01-11T19:56:36.015] [DEBUG] Plugin - null
+[2025-01-11T19:56:36.016] [INFO] Plugin - ✨ 指令执行 # /recall => null
+[2025-01-11T19:57:02.710] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:57:07.010] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 11
+[2025-01-11T19:57:07.011] [DEBUG] SapCat - [ '/recall', '11' ]
+[2025-01-11T19:57:07.011] [DEBUG] Plugin - [ '/recall', '11' ]
+[2025-01-11T19:57:07.015] [DEBUG] Plugin - null
+[2025-01-11T19:57:07.015] [INFO] Plugin - ✨ 指令执行 # /recall => null
+[2025-01-11T19:57:16.643] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:57:20.622] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T19:57:20.623] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T19:57:20.624] [DEBUG] Plugin - [ '/recall', '111' ]
+[2025-01-11T19:57:20.627] [DEBUG] Plugin - null
+[2025-01-11T19:57:20.628] [INFO] Plugin - ✨ 指令执行 # /recall => null
+[2025-01-11T19:57:47.342] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T19:57:52.132] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1afs
+[2025-01-11T20:00:54.921] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T20:00:58.902] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T20:01:11.745] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T20:01:15.259] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T20:01:15.259] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T20:01:15.260] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T20:01:15.263] [DEBUG] Plugin - null
+[2025-01-11T20:04:18.052] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T20:04:21.578] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T20:04:21.578] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T20:04:24.662] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T20:04:24.662] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T20:04:49.010] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T20:04:51.511] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 21
+[2025-01-11T20:04:51.511] [DEBUG] SapCat - [ '/recall', '21' ]
+[2025-01-11T20:04:51.512] [DEBUG] Plugin - [ '/recall', '21' ]
+[2025-01-11T20:04:51.515] [DEBUG] Plugin - null
+[2025-01-11T20:05:06.337] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T20:05:09.513] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T20:05:09.514] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T20:05:09.514] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T20:05:09.517] [DEBUG] Plugin - null
+[2025-01-11T20:05:56.791] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T20:06:01.370] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T20:06:23.447] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T20:06:27.324] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T20:06:27.324] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T20:06:27.325] [DEBUG] Plugin - null
+[2025-01-11T20:06:30.130] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T20:06:30.131] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T20:06:30.131] [DEBUG] Plugin - null
+[2025-01-11T20:10:45.317] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T20:10:48.391] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T20:10:48.392] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T20:10:48.392] [DEBUG] Plugin - null
+[2025-01-11T20:10:53.848] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T20:10:53.849] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T20:10:53.849] [DEBUG] Plugin - null
+[2025-01-11T22:25:41.685] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:25:48.414] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T22:25:48.415] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T22:25:48.416] [DEBUG] Plugin - null
+[2025-01-11T22:26:09.705] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:26:16.767] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T22:26:16.767] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T22:26:16.768] [DEBUG] Plugin - null
+[2025-01-11T22:26:35.659] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:26:38.055] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T22:26:38.055] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T22:26:38.056] [DEBUG] Plugin - { type: 'text', data: { text: 'Hello, World!' } }
+[2025-01-11T22:26:38.056] [INFO] Plugin - ✨ 指令执行 # 1 => [object Object]
+[2025-01-11T22:26:49.921] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 草了
+[2025-01-11T22:26:56.991] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : ？
+[2025-01-11T22:27:16.761] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 有电脑了没
+[2025-01-11T22:27:26.205] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 有
+[2025-01-11T22:27:27.868] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 咋
+[2025-01-11T22:27:59.043] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 我开个tunnel
+[2025-01-11T22:28:05.607] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : .
+[2025-01-11T22:28:11.237] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 等一会
+[2025-01-11T22:37:52.791] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:38:09.120] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /aaa
+[2025-01-11T22:39:30.876] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:39:35.095] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /aaa
+[2025-01-11T22:39:35.096] [DEBUG] SapCat - [ '/aaa' ]
+[2025-01-11T22:39:35.096] [DEBUG] Plugin - [ '/aaa' ]
+[2025-01-11T22:39:35.097] [DEBUG] Plugin - null
+[2025-01-11T22:39:47.188] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /recall 1
+[2025-01-11T22:39:47.189] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T22:39:47.189] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T22:39:47.190] [DEBUG] Plugin - null
+[2025-01-11T22:39:58.103] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:40:01.772] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /recall
+[2025-01-11T22:40:01.772] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T22:40:01.772] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T22:40:01.773] [DEBUG] Plugin - [ { type: 'text', data: { text: '参数错误。' } } ]
+[2025-01-11T22:40:01.774] [INFO] Plugin - ✨ 指令执行 # /recall => [object Object]
+[2025-01-11T22:42:01.517] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:42:05.581] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /recall
+[2025-01-11T22:42:05.582] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T22:42:05.582] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T22:42:05.583] [DEBUG] Plugin - 参数错误。
+[2025-01-11T22:42:05.583] [INFO] Plugin - ✨ 指令执行 # /recall => 参数错误。
+[2025-01-11T22:42:52.649] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:42:56.360] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /recall
+[2025-01-11T22:42:56.360] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T22:42:56.361] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T22:42:56.361] [DEBUG] Plugin - 参数错误。
+[2025-01-11T22:42:56.362] [INFO] Plugin - ✨ 指令执行 # /recall => 参数错误。
+[2025-01-11T22:43:01.504] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /recall 111
+[2025-01-11T22:43:01.505] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T22:43:01.506] [DEBUG] Plugin - [ '/recall', '111' ]
+[2025-01-11T22:43:01.507] [DEBUG] Plugin - null
+[2025-01-11T22:43:21.153] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:43:25.404] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /recall 111
+[2025-01-11T22:43:25.404] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T22:43:25.405] [DEBUG] Plugin - [ '/recall', '111' ]
+[2025-01-11T22:43:25.405] [DEBUG] Plugin - null
+[2025-01-11T22:43:39.725] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : ), Structs.image({ file: music163Result.song_info.cover, type: 'show', id: 40004 })]
+[2025-01-11T22:43:39.725] [DEBUG] SapCat - [
+  '),',
+  'Structs.image({',
+  'file:',
+  'music163Result.song_info.cover,',
+  'type:',
+  "'show',",
+  'id:',
+  '40004',
+  '})]'
+]
+[2025-01-11T22:43:39.726] [DEBUG] Plugin - [
+  '),',
+  'Structs.image({',
+  'file:',
+  'music163Result.song_info.cover,',
+  'type:',
+  "'show',",
+  'id:',
+  '40004',
+  '})]'
+]
+[2025-01-11T22:43:39.727] [DEBUG] Plugin - null
+[2025-01-11T22:43:57.768] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T22:43:57.768] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T22:43:57.768] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T22:43:57.769] [DEBUG] Plugin - 参数错误。
+[2025-01-11T22:43:57.769] [INFO] Plugin - ✨ 指令执行 # /recall => 参数错误。
+[2025-01-11T22:44:00.858] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 111
+[2025-01-11T22:44:00.858] [DEBUG] SapCat - [ '/recall', '111' ]
+[2025-01-11T22:44:00.859] [DEBUG] Plugin - [ '/recall', '111' ]
+[2025-01-11T22:44:00.859] [DEBUG] Plugin - null
+[2025-01-11T22:44:08.994] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 111
+[2025-01-11T22:44:08.995] [DEBUG] SapCat - [ '/music163', '111' ]
+[2025-01-11T22:44:08.995] [DEBUG] Plugin - [ '/music163', '111' ]
+[2025-01-11T22:47:06.416] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:47:11.736] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music 163 111
+[2025-01-11T22:47:11.737] [DEBUG] SapCat - [ '/music', '163', '111' ]
+[2025-01-11T22:47:11.738] [DEBUG] Plugin - [ '/music', '163', '111' ]
+[2025-01-11T22:47:11.739] [DEBUG] Plugin - null
+[2025-01-11T22:47:27.599] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 111
+[2025-01-11T22:47:27.600] [DEBUG] SapCat - [ '/music163', '111' ]
+[2025-01-11T22:47:27.600] [DEBUG] Plugin - [ '/music163', '111' ]
+[2025-01-11T22:48:14.656] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:48:20.864] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 111
+[2025-01-11T22:48:20.865] [DEBUG] SapCat - [ '/music163', '111' ]
+[2025-01-11T22:48:20.865] [DEBUG] Plugin - [ '/music163', '111' ]
+[2025-01-11T22:49:36.207] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T22:49:42.091] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 111
+[2025-01-11T22:49:42.092] [DEBUG] SapCat - [ '/music163', '111' ]
+[2025-01-11T22:49:42.092] [DEBUG] Plugin - [ '/music163', '111' ]
+[2025-01-11T22:49:42.952] [DEBUG] Plugin - 解析失败。
+[2025-01-11T22:49:42.952] [INFO] Plugin - ✨ 指令执行 # /music163 => 解析失败。
+[2025-01-11T22:49:57.982] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T22:49:57.983] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T22:49:57.983] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T22:49:58.614] [DEBUG] Plugin - 解析成功。
+歌曲名：时暮的思眷 Le Souvenir avec le crepuscule
+艺术家：HOYO-MiX
+专辑：原神-白露澈明之泉 Fountain of Belleau
+音质：高清环绕声 (Spatial Audio)
+封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320
+-------------------
+歌曲Url：https://m7.music.126.net/20250111231458/572678a8cf0fed801b4ff2e35989aee9/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=Zh8TO09ymZLaZ268Uk5XGwAeVVQOrRto41EGQAYyY2a2b6hqLmVVCj6sP839O2g7iOwMXsFb0WkyKh48ZQCWNxKFRDW/JYky+gXg/edHqIM=
+歌曲时长：01:31
+歌曲大小：29.50MB
+歌曲格式：flac
+[2025-01-11T22:49:58.615] [INFO] Plugin - ✨ 指令执行 # /music163 => 解析成功。
+歌曲名：时暮的思眷 Le Souvenir avec le crepuscule
+艺术家：HOYO-MiX
+专辑：原神-白露澈明之泉 Fountain of Belleau
+音质：高清环绕声 (Spatial Audio)
+封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320
+-------------------
+歌曲Url：https://m7.music.126.net/20250111231458/572678a8cf0fed801b4ff2e35989aee9/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=Zh8TO09ymZLaZ268Uk5XGwAeVVQOrRto41EGQAYyY2a2b6hqLmVVCj6sP839O2g7iOwMXsFb0WkyKh48ZQCWNxKFRDW/JYky+gXg/edHqIM=
+歌曲时长：01:31
+歌曲大小：29.50MB
+歌曲格式：flac
+[2025-01-11T22:52:14.242] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 草了
+[2025-01-11T22:52:23.624] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : chrome标签页快100个了
+[2025-01-11T22:52:29.501] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 还是没解决问题
+[2025-01-11T22:52:30.704] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 6
+[2025-01-11T22:52:37.564] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 问问gpt
+[2025-01-11T22:52:42.716] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 问了
+[2025-01-11T22:53:13.990] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:image,file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383637313130303536323436333735347c373435383637313130303536323436333735337c4568534c5f6f7348636577694272546a6d4864334b364333694b446d7a42694b757855675f776f6f744a47363976587469674d794248427962325251674c326a41566f5134527970536f366c446b66426b6c355077314b517241.6D11067E5DF608B9052AFF495A6C7752.png,sub_type=0,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383637313130303536323436333735347c373435383637313130303536323436333735337c4568534c5f6f7348636577694272546a6d4864334b364333694b446d7a42694b757855675f776f6f744a47363976587469674d794248427962325251674c326a41566f5134527970536f366c446b66426b6c355077314b517241.6D11067E5DF608B9052AFF495A6C7752.png,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSL_osHcewiBrTjmHd3K6C3iKDmzBiKuxUg_wootJG69vXtigMyBHByb2RQgL2jAVoQ4RypSo6lDkfBkl5Pw1KQrA&rkey=CAISKKSBekjVG1fMPYY_Ph1a6FCRLd7OI0T4RXed6nWBvNCc4cT-UujBw4Q,file_size=351626,file_unique=6d11067e5df608b9052aff495a6c7752]
+[2025-01-11T22:53:17.478] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 这行代码被诅咒了
+[2025-01-11T22:53:24.086] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 6
+[2025-01-11T23:06:37.395] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:13:59.245] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:14:04.842] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : 1
+[2025-01-11T23:14:04.842] [DEBUG] SapCat - [ '1' ]
+[2025-01-11T23:14:04.843] [DEBUG] Plugin - [ '1' ]
+[2025-01-11T23:14:04.844] [DEBUG] Plugin - null
+[2025-01-11T23:15:57.903] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:15:57.904] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:15:57.905] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:15:58.626] [DEBUG] Plugin - 解析成功。
+歌曲名：时暮的思眷 Le Souvenir avec le crepuscule
+艺术家：HOYO-MiX
+专辑：原神-白露澈明之泉 Fountain of Belleau
+音质：高清环绕声 (Spatial Audio)
+封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320
+-------------------
+歌曲Url：https://m7.music.126.net/20250111234058/57f0c6421f2f78cfa819d959b1cdb9b4/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=oYAZQE6MlpRiwqPY0QO3FLDv96YLLkxHLw9RlXv4EYztT6QmaiYyjhhsbrYPjFNsPVJ1iUD0TaVd8Z9GutOBCakk1ZKskV0vLUGih3UWCOw=
+歌曲时长：01:31
+歌曲大小：29.50MB
+歌曲格式：flac
+[2025-01-11T23:15:58.626] [INFO] Plugin - ✨ 指令执行 # /music163 => 解析成功。
+歌曲名：时暮的思眷 Le Souvenir avec le crepuscule
+艺术家：HOYO-MiX
+专辑：原神-白露澈明之泉 Fountain of Belleau
+音质：高清环绕声 (Spatial Audio)
+封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320
+-------------------
+歌曲Url：https://m7.music.126.net/20250111234058/57f0c6421f2f78cfa819d959b1cdb9b4/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=oYAZQE6MlpRiwqPY0QO3FLDv96YLLkxHLw9RlXv4EYztT6QmaiYyjhhsbrYPjFNsPVJ1iUD0TaVd8Z9GutOBCakk1ZKskV0vLUGih3UWCOw=
+歌曲时长：01:31
+歌曲大小：29.50MB
+歌曲格式：flac
+[2025-01-11T23:16:03.896] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 因为没写完
+[2025-01-11T23:16:05.232] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-11T23:16:05.233] [DEBUG] SapCat - [ '/recall' ]
+[2025-01-11T23:16:05.233] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-11T23:16:05.234] [DEBUG] Plugin - 参数错误。
+[2025-01-11T23:16:05.234] [INFO] Plugin - ✨ 指令执行 # /recall => 参数错误。
+[2025-01-11T23:16:07.812] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T23:16:07.812] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T23:16:07.813] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T23:16:07.813] [DEBUG] Plugin - null
+[2025-01-11T23:17:10.478] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:17:14.242] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T23:17:14.243] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T23:17:14.244] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T23:17:14.246] [DEBUG] Plugin - null
+[2025-01-11T23:17:50.415] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:17:54.537] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T23:17:54.537] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T23:17:54.538] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T23:17:54.547] [DEBUG] Plugin - null
+[2025-01-11T23:18:58.773] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 卧槽
+[2025-01-11T23:19:01.751] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 卧槽！！！！！！！！！
+[2025-01-11T23:19:05.366] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : ？
+[2025-01-11T23:19:07.847] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 让我找出来了
+[2025-01-11T23:19:16.924] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : ？
+[2025-01-11T23:19:21.893] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 卧槽
+[2025-01-11T23:19:23.783] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 哪
+[2025-01-11T23:19:39.720] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 他妈的是命令解析的第31行少个await
+[2025-01-11T23:26:37.737] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:26:47.397] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-11T23:26:47.398] [DEBUG] SapCat - [ '/recall', '1' ]
+[2025-01-11T23:26:47.398] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-11T23:26:47.408] [ERROR] Plugin - 撤回消息时遇到错误[object Object]
+[2025-01-11T23:26:47.408] [DEBUG] Plugin - null
+[2025-01-11T23:27:02.807] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:27:02.807] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:27:02.808] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:27:03.531] [DEBUG] Plugin - [
+  {
+    type: 'image',
+    data: {
+      file: [Object],
+      name: undefined,
+      summary: undefined,
+      sub_type: undefined
+    }
+  },
+  {
+    type: 'text',
+    data: {
+      text: '解析成功。\n' +
+        '歌曲名：时暮的思眷 Le Souvenir avec le crepuscule\n' +
+        '艺术家：HOYO-MiX\n' +
+        '专辑：原神-白露澈明之泉 Fountain of Belleau\n' +
+        '音质：高清环绕声 (Spatial Audio)\n' +
+        '封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320\n' +
+        '-------------------\n' +
+        '歌曲Url：https://m8.music.126.net/20250111235202/dac724134d1f96f6649881a5b7f090a9/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=x/k2yQ9YIDMrk1dZQGzFwfwpeJhfc/euMFVMnB+Ez2G6zsnxYmAsklGFAesIJVd+6CoSxVwQy2LtBb7RcGLxqkpsQDc102tTnUBrr2xqblI=\n' +
+        '歌曲时长：01:31\n' +
+        '歌曲大小：29.50MB\n' +
+        '歌曲格式：flac'
+    }
+  }
+]
+[2025-01-11T23:27:03.532] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:30:27.347] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:30:30.340] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:30:30.341] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:30:30.342] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:30:31.048] [DEBUG] Plugin - [
+  {
+    type: 'image',
+    data: {
+      file: [Object],
+      name: undefined,
+      summary: undefined,
+      sub_type: undefined
+    }
+  },
+  {
+    type: 'text',
+    data: {
+      text: '解析成功。\n' +
+        '歌曲名：时暮的思眷 Le Souvenir avec le crepuscule\n' +
+        '艺术家：HOYO-MiX\n' +
+        '专辑：原神-白露澈明之泉 Fountain of Belleau\n' +
+        '音质：高清环绕声 (Spatial Audio)\n' +
+        '封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320\n' +
+        '-------------------\n' +
+        '歌曲Url：https://m7.music.126.net/20250111235530/58e86e298ba859e103894389e10a68e6/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=QufB3GOMn8ckktwo52FlLlDG4fPcV4rDaoY5v/PyxFjOuwqgkdzL+LGlWu5Ei+qTZQx9Z9R2DIwtXUMFg36dakU1tCSEklADYffnWZZZyr4=\n' +
+        '歌曲时长：01:31\n' +
+        '歌曲大小：29.50MB\n' +
+        '歌曲格式：flac'
+    }
+  }
+]
+[2025-01-11T23:30:31.048] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:33:39.749] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:35:02.054] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:35:51.009] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:36:44.110] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:36:44.111] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:36:44.112] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:36:44.825] [DEBUG] Plugin - [
+  {
+    type: 'image',
+    data: {
+      file: [Object],
+      name: undefined,
+      summary: undefined,
+      sub_type: undefined
+    }
+  },
+  {
+    type: 'text',
+    data: {
+      text: '解析成功。\n' +
+        '歌曲名：时暮的思眷 Le Souvenir avec le crepuscule\n' +
+        '艺术家：HOYO-MiX\n' +
+        '专辑：原神-白露澈明之泉 Fountain of Belleau\n' +
+        '音质：高清环绕声 (Spatial Audio)\n' +
+        '封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320\n' +
+        '-------------------\n' +
+        '歌曲Url：https://m7.music.126.net/20250112000144/080fe36b2649320a840242c963becddd/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=632n2IkUW2D6hXwOpb25/CyFbklUzypv63P3bUPj3sTQtGnoMctjpq82ud5R4Cm2w/FTgiSMM9BozbKcQzMbgGlPfHaxgnDCNw4Dav/aoZM=\n' +
+        '歌曲时长：01:31\n' +
+        '歌曲大小：29.50MB\n' +
+        '歌曲格式：flac'
+    }
+  }
+]
+[2025-01-11T23:36:44.826] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:37:05.098] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:37:09.014] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:37:09.014] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:37:09.015] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:37:09.768] [DEBUG] Plugin - [
+  {
+    type: 'image',
+    data: {
+      file: [Object],
+      name: undefined,
+      summary: undefined,
+      sub_type: undefined
+    }
+  },
+  {
+    type: 'text',
+    data: {
+      text: '解析成功。\n' +
+        '歌曲名：时暮的思眷 Le Souvenir avec le crepuscule\n' +
+        '艺术家：HOYO-MiX\n' +
+        '专辑：原神-白露澈明之泉 Fountain of Belleau\n' +
+        '音质：高清环绕声 (Spatial Audio)\n' +
+        '封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320\n' +
+        '-------------------\n' +
+        '歌曲Url：https://m8.music.126.net/20250112000209/b116e03a4f8629f1911f5ea790f4f786/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=Xv6Mq8t7hms6V7sffvL4YxzRgetROwH6fXhrLlgSvpu40nK1GX/M4ZSlRFNiBUJAdbwVCeIWwE5UU1YZX8FdrFtLaJYiYvQGU79I3/Hf3eg=\n' +
+        '歌曲时长：01:31\n' +
+        '歌曲大小：29.50MB\n' +
+        '歌曲格式：flac'
+    }
+  }
+]
+[2025-01-11T23:37:09.768] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:38:40.383] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:38:44.008] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:38:44.009] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:38:44.010] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:39:02.337] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:39:06.623] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:39:06.624] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:39:06.625] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:39:07.352] [DEBUG] Plugin - [
+  {
+    type: 'image',
+    data: {
+      file: [Object],
+      name: undefined,
+      summary: undefined,
+      sub_type: undefined
+    }
+  },
+  {
+    type: 'text',
+    data: {
+      text: '解析成功。\n' +
+        '歌曲名：时暮的思眷 Le Souvenir avec le crepuscule\n' +
+        '艺术家：HOYO-MiX\n' +
+        '专辑：原神-白露澈明之泉 Fountain of Belleau\n' +
+        '音质：高清环绕声 (Spatial Audio)\n' +
+        '封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320\n' +
+        '-------------------\n' +
+        '歌曲Url：https://m8.music.126.net/20250112000406/c84ea593b7f7a5dfa16423f3af042b37/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=4vYDLSRy0NkcpKLEekhheYDzXezoAXCpaz+ql3tiXt0B1t6NZ7lE8DCb7EjieW08LSMHXa1qJ9fNlpp3XTfvbBBNhtY9UUS+BnvqsAhOxKQ=\n' +
+        '歌曲时长：01:31\n' +
+        '歌曲大小：29.50MB\n' +
+        '歌曲格式：flac'
+    }
+  }
+]
+[2025-01-11T23:39:07.353] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:39:45.893] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:39:48.796] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:39:48.797] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:39:48.798] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:39:49.507] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:40:11.621] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:40:12.926] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:40:12.927] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:40:12.928] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:41:12.740] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:41:19.316] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:41:19.317] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:41:19.318] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:41:20.050] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:42:42.755] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:42:54.705] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2085833517
+[2025-01-11T23:42:54.705] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:42:54.706] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:42:55.410] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:43:14.641] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:43:23.038] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music 2085833517
+[2025-01-11T23:43:23.039] [DEBUG] SapCat - [ '/music', '2085833517' ]
+[2025-01-11T23:43:23.039] [DEBUG] Plugin - [ '/music', '2085833517' ]
+[2025-01-11T23:43:55.983] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music 2085833517
+[2025-01-11T23:43:55.984] [DEBUG] SapCat - [ '/music', '2085833517' ]
+[2025-01-11T23:43:55.984] [DEBUG] Plugin - [ '/music', '2085833517' ]
+[2025-01-11T23:44:26.741] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2085833517
+[2025-01-11T23:44:26.741] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:44:26.742] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:44:27.445] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:44:43.635] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:44:51.466] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2085833517
+[2025-01-11T23:44:51.466] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:44:51.467] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:46:23.944] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:46:34.087] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2085833517
+[2025-01-11T23:46:34.088] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:46:34.088] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:49:36.061] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:49:46.211] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2085833517
+[2025-01-11T23:49:46.212] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:49:46.212] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:49:46.917] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:52:46.942] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:52:55.017] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 双引号打错了
+[2025-01-11T23:52:59.801] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2085833517
+[2025-01-11T23:52:59.802] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:52:59.802] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:53:00.576] [INFO] Plugin - ✨ 指令执行 # /music163 => [object Object],[object Object]
+[2025-01-11T23:57:43.543] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-11T23:58:02.034] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /music163 2085833517
+[2025-01-11T23:58:02.036] [DEBUG] SapCat - [ '/music163', '2085833517' ]
+[2025-01-11T23:58:02.037] [DEBUG] Plugin - [ '/music163', '2085833517' ]
+[2025-01-11T23:58:02.734] [INFO] Plugin - ✨ 指令执行 # /music163 => [{"type":"image","data":{"file":"https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320"}},{"type":"text","data":{"text":"解析成功。\n歌曲名：时暮的思眷 Le Souvenir avec le crepuscule\n艺术家：HOYO-MiX\n专辑：原神-白露澈明之泉 Fountain of Belleau\n音质：高清环绕声 (Spatial Audio)\n封面Url：https://p3.music.126.net/Y8DlFQ7xFYbVclVBxQzsSA==/109951168945012044.jpg?param=320y320\n-------------------\n歌曲Url：https://m7.music.126.net/20250112002302/c2b269c56538a733ec4f48776ba532bd/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/30817082716/cb77/f875/13c6/7ca0b6f18979203f78f9b71b84f6e67c.flac?vuutv=INFMs2UeJhOH5PnE8/I8BshPii/T6kEPPT4bhaoQs/WOpSgSSR4okpUaDJH6ab5wSOVNymE4tBIuiPMCtcKYuPbHMKMFnsDyUusI+ln3+dQ=\n歌曲时长：01:31\n歌曲大小：29.50MB\n歌曲格式：flac"}}]
+[2025-01-12T00:01:28.744] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-12T00:01:37.356] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall
+[2025-01-12T00:01:37.357] [DEBUG] Plugin - [ '/recall' ]
+[2025-01-12T00:01:37.358] [INFO] Plugin - ✨ 指令执行 # /recall => {"type":"text","data":{"text":"参数错误。"}}
+[2025-01-12T00:02:15.664] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-12T00:02:15.669] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-12T00:02:17.482] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:image,summary=[动画表情],file=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383638383733353337373532353735327c373435383638383733353337373532353735317c45685350756b7056694f4c6a37644b364164616e4f76504c6937415830526a754679445f4369694e364d71636865364b417a494563484a765a46434176614d4257684348756d694d587a4639413464594d6d596d51704e37.F9272919ACD486E3C1937C4EE824F793.jpg,sub_type=1,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383638383733353337373532353735327c373435383638383733353337373532353735317c45685350756b7056694f4c6a37644b364164616e4f76504c6937415830526a754679445f4369694e364d71636865364b417a494563484a765a46434176614d4257684348756d694d587a4639413464594d6d596d51704e37.F9272919ACD486E3C1937C4EE824F793.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSPukpViOLj7dK6AdanOvPLi7AX0RjuFyD_CiiN6Mqche6KAzIEcHJvZFCAvaMBWhCHumiMXzF9A4dYMmYmQpN7&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=3054,file_unique=f9272919acd486e3c1937c4ee824f793]
+[2025-01-12T00:02:17.482] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:image,summary=[动画表情],file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383638383734333933303538353637307c373435383638383734333933303538353636397c45685233434b35596276635237394938703658776e6a51436337696c6c686a365f7745675f776f6f6a756d616e59587569674d794248427962325251674c326a41566f515838476834444163776b46586435747a6f777a634877.71804106CE64EE82B5DA1A6F5E63486B.jpg,sub_type=1,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383638383734333933303538353637307c373435383638383734333933303538353636397c45685233434b35596276635237394938703658776e6a51436337696c6c686a365f7745675f776f6f6a756d616e59587569674d794248427962325251674c326a41566f515838476834444163776b46586435747a6f777a634877.71804106CE64EE82B5DA1A6F5E63486B.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhR3CK5YbvcR79I8p6XwnjQCc7illhj6_wEg_woojumanYXuigMyBHByb2RQgL2jAVoQX8Gh4DAcwkFXd5tzowzcHw&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=32762,file_unique=71804106ce64ee82b5da1a6f5e63486b]
+[2025-01-12T00:02:17.482] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:image,summary=[动画表情],file=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383638383734393032393338313930347c373435383638383734393032393338313930337c45685179746c62447073574c6373514f6c7649504e575946347a3459654269374979445f43696a79686f57656865364b417a494563484a765a46434176614d42576843514e4934547658445146523050464b4350466b6b6e.CD22D7E8DD970A3A46C359CC1B57EB26.jpg,sub_type=1,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383638383734393032393338313930347c373435383638383734393032393338313930337c45685179746c62447073574c6373514f6c7649504e575946347a3459654269374979445f43696a79686f57656865364b417a494563484a765a46434176614d42576843514e4934547658445146523050464b4350466b6b6e.CD22D7E8DD970A3A46C359CC1B57EB26.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhQytlbDpsWLcsQOlvIPNWYF4z4YeBi7IyD_CijyhoWehe6KAzIEcHJvZFCAvaMBWhCQNI4TvXDQFR0PFKCPFkkn&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=4539,file_unique=cd22d7e8dd970a3a46c359cc1b57eb26]
+[2025-01-12T00:02:17.489] [ERROR] Plugin - 撤回消息时遇到错误[object Object]
+[2025-01-12T00:04:32.238] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-12T00:04:35.338] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-12T00:04:35.343] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-12T00:04:45.399] [ERROR] Plugin - 撤回消息时遇到错误{"status":"failed","retcode":1200,"data":null,"message":"Recall failed","wording":"Recall failed","echo":"KWAEw4C2ki5kdbYYuSJvE"}
+[2025-01-12T00:05:00.799] [INFO] SapCat - 📣 私聊消息 # 轻羽Feath(2641213764) : /recall 1
+[2025-01-12T00:05:00.800] [DEBUG] Plugin - [ '/recall', '1' ]
+[2025-01-12T00:05:01.595] [ERROR] Plugin - 撤回消息时遇到错误{"status":"failed","retcode":1200,"data":null,"message":"Recall failed","wording":"Recall failed","echo":"10z609kcy5lmRhP_Xcr57"}
+[2025-01-12T00:06:19.429] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=1472885193][CQ:at,qq=3636990074] /recall
+[2025-01-12T00:06:19.430] [DEBUG] Plugin - [ '/recall', '1472885193' ]
+[2025-01-12T00:06:28.517] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 666
+[2025-01-12T00:06:49.424] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 神券
+[2025-01-12T00:06:55.501] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=885067152][CQ:at,qq=3636990074] /recall
+[2025-01-12T00:06:55.501] [DEBUG] Plugin - [ '/recall', '885067152' ]
+[2025-01-12T00:06:56.511] [ERROR] Plugin - 撤回消息时遇到错误{"status":"failed","retcode":1200,"data":null,"message":"Timeout: NTEvent serviceAndMethod:NodeIKernelMsgService/recallMsg ListenerName:NodeIKernelMsgListener/onMsgInfoListUpdate EventRet:\n{\n    \"result\": 7,\n    \"errMsg\": \"decode failed!\"\n}\n","wording":"Timeout: NTEvent serviceAndMethod:NodeIKernelMsgService/recallMsg ListenerName:NodeIKernelMsgListener/onMsgInfoListUpdate EventRet:\n{\n    \"result\": 7,\n    \"errMsg\": \"decode failed!\"\n}\n","echo":"TJYD6e2KMfgbJ3rT3q68q"}
+[2025-01-12T00:07:00.569] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 草泥马
+[2025-01-12T00:07:02.549] [INFO] SapCat - 📣 群聊消息 # 派蒙(2637781759) -> ¿¿¿(722362816) : 能撤群主的吗
+[2025-01-12T00:07:02.945] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 又崩了
+[2025-01-12T00:07:05.744] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 没写catch
+[2025-01-12T00:07:06.452] [INFO] SapCat - 📣 群聊消息 # 派蒙(2637781759) -> ¿¿¿(722362816) : 6
+[2025-01-12T00:07:10.620] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 傻大儿
+[2025-01-12T00:07:14.915] [INFO] SapCat - 📣 群聊消息 # 派蒙(2637781759) -> ¿¿¿(722362816) : 管理能撤吗
+[2025-01-12T00:07:15.410] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:image,summary=[动画表情],file=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639303137393630343538333731387c373435383639303137393630343538333731377c4568527252563978664b727a744a6c3542742d345f4578596539463355786a574469445f43696a6769394b386875364b417a494563484a765a46434176614d4257684476524b66627145695853644d716c3236792d454c55.DBC1FA39828BBBFDEAEC9D4F2A3EC076.jpg,sub_type=1,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639303137393630343538333731387c373435383639303137393630343538333731377c4568527252563978664b727a744a6c3542742d345f4578596539463355786a574469445f43696a6769394b386875364b417a494563484a765a46434176614d4257684476524b66627145695853644d716c3236792d454c55.DBC1FA39828BBBFDEAEC9D4F2A3EC076.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhRrRV9xfKrztJl5Bt-4_ExYe9F3UxjWDiD_Cijgi9K8hu6KAzIEcHJvZFCAvaMBWhDvRKfbqEiXSdMql26y-ELU&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=1878,file_unique=dbc1fa39828bbbfdeaec9d4f2a3ec076]
+[2025-01-12T00:07:18.442] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:image,summary=[动画表情],file=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639303139313332353431373634327c373435383639303139313332353431373634317c4568536256534473554b72764a376b533266315f763546714571556b4d4269774e43445f436969716d34712d6875364b417a494563484a765a46434176614d425768433376386d6b4577785378706c507a3264735069337a.53186360BAF37344BC60B35D88C0A58E.jpg,sub_type=1,file_id=000001424e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639303139313332353431373634327c373435383639303139313332353431373634317c4568536256534473554b72764a376b533266315f763546714571556b4d4269774e43445f436969716d34712d6875364b417a494563484a765a46434176614d425768433376386d6b4577785378706c507a3264735069337a.53186360BAF37344BC60B35D88C0A58E.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSbVSDsUKrvJ7kS2f1_v5FqEqUkMBiwNCD_Ciiqm4q-hu6KAzIEcHJvZFCAvaMBWhC3v8mkEwxSxplPz2dsPi3z&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=6704,file_unique=53186360baf37344bc60b35d88c0a58e]
+[2025-01-12T00:07:19.139] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 撤回消息时遇到错误{"status":"failed","retcode":1200,"data":null,"message":"Timeout: NTEvent serviceAndMethod:NodeIKernelMsgService/recallMsg ListenerName:NodeIKernelMsgListener/onMsgInfoListUpdate EventRet:\n{\n    \"result\": 7,\n    \"errMsg\": \"decode failed!\"\n}\n","wording":"Timeout: NTEvent serviceAndMethod:NodeIKernelMsgService/recallMsg ListenerName:NodeIKernelMsgListener/onMsgInfoListUpdate EventRet:\n{\n    \"result\": 7,\n    \"errMsg\": \"decode failed!\"\n}\n","echo":"TJYD6e2KMfgbJ3rT3q68q"}
+[2025-01-12T00:07:24.997] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=1392495030][CQ:at,qq=3636990074] /recall
+[2025-01-12T00:07:24.998] [DEBUG] Plugin - [ '/recall', '1392495030' ]
+[2025-01-12T00:07:26.008] [ERROR] Plugin - 撤回消息时遇到错误{"status":"failed","retcode":1200,"data":null,"message":"Timeout: NTEvent serviceAndMethod:NodeIKernelMsgService/recallMsg ListenerName:NodeIKernelMsgListener/onMsgInfoListUpdate EventRet:\n{\n    \"result\": 7,\n    \"errMsg\": \"decode failed!\"\n}\n","wording":"Timeout: NTEvent serviceAndMethod:NodeIKernelMsgService/recallMsg ListenerName:NodeIKernelMsgListener/onMsgInfoListUpdate EventRet:\n{\n    \"result\": 7,\n    \"errMsg\": \"decode failed!\"\n}\n","echo":"NfGGTPEHIoLYHPI-QO95Z"}
+[2025-01-12T00:07:26.485] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:image,summary=[动画表情],file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639303232353732383237313937347c373435383639303232353732383237313937337c456853763571336a5a7379683546624c555635736d6a4243635734796f786a626e4149675f776f6f6b504c357759627569674d794248427962325251674c326a41566f51565f43776f6d504d3779736c44304b55726b51444551.EB5B8FC0141BD110950ADA7B582EEFC6.jpg,sub_type=1,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639303232353732383237313937347c373435383639303232353732383237313937337c456853763571336a5a7379683546624c555635736d6a4243635734796f786a626e4149675f776f6f6b504c357759627569674d794248427962325251674c326a41566f51565f43776f6d504d3779736c44304b55726b51444551.EB5B8FC0141BD110950ADA7B582EEFC6.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhSv5q3jZsyh5FbLUV5smjBCcW4yoxjbnAIg_wookPL5wYbuigMyBHByb2RQgL2jAVoQV_CwomPM7yslD0KUrkQDEQ&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=36443,file_unique=eb5b8fc0141bd110950ada7b582eefc6]
+[2025-01-12T00:07:41.910] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : retcode:1200
+[2025-01-12T00:07:44.768] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 并不能
+[2025-01-12T00:07:56.287] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : .
+[2025-01-12T00:16:29.625] [INFO] SapCat - 连接 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-12T00:16:44.495] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 我没时间（
+[2025-01-12T00:17:31.397] [INFO] SapCat - 🔗 连接到 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-12T00:17:38.420] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : OKOK
+[2025-01-12T00:17:45.409] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : ?
+[2025-01-12T00:17:46.711] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : ？
+[2025-01-12T00:17:47.930] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 现在框架终于写完了
+[2025-01-12T00:17:57.215] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:image,summary=[动画表情],file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639323933323036393138303236327c373435383639323933323036393138303236317c4568525a353646354d446e69415f5576457957466a6269396343426445786a47376855675f776f6f35357256376f6a7569674d794248427962325251674c326a41566f514e746e3074397262524833436950384b4a3436444f77.99A5008CBE99421088BC49193EB4AA97.jpg,sub_type=1,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639323933323036393138303236327c373435383639323933323036393138303236317c4568525a353646354d446e69415f5576457957466a6269396343426445786a47376855675f776f6f35357256376f6a7569674d794248427962325251674c326a41566f514e746e3074397262524833436950384b4a3436444f77.99A5008CBE99421088BC49193EB4AA97.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhRZ56F5MDniA_UvEyWFjbi9cCBdExjG7hUg_woo55rV7ojuigMyBHByb2RQgL2jAVoQNtn0t9rbRH3CiP8KJ46DOw&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=358214,file_unique=99a5008cbe99421088bc49193eb4aa97]
+[2025-01-12T00:18:02.644] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:at,qq=2641213764] 你以后是这个
+[2025-01-12T00:18:02.994] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 可以来帮我测测bug
+[2025-01-12T00:18:06.093] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 👀
+[2025-01-12T00:18:11.048] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 没有权限
+[2025-01-12T00:18:14.913] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:image,summary=[动画表情],file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639333030393937333033303238377c373435383639333030393937333033303238367c456854564e486a4d6a677537634a36555f4e725f57737a6e39726e7a76786a34366745675f776f6f3366714e39346a7569674d794248427962325251674c326a41566f517536485f6c665a48626f543375496b6175344b6e3267.E3D60B50F423E40F47DE92492290DF2A.jpg,sub_type=1,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639333030393937333033303238377c373435383639333030393937333033303238367c456854564e486a4d6a677537634a36555f4e725f57737a6e39726e7a76786a34366745675f776f6f3366714e39346a7569674d794248427962325251674c326a41566f517536485f6c665a48626f543375496b6175344b6e3267.E3D60B50F423E40F47DE92492290DF2A.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhTVNHjMjgu7cJ6U_Nr_Wszn9rnzvxj46gEg_woo3fqN94juigMyBHByb2RQgL2jAVoQu6H_lfZHboT3uIkau4Kn2g&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=30072,file_unique=e3d60b50f423e40f47de92492290df2a]
+[2025-01-12T00:18:15.719] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 有的
+[2025-01-12T00:18:17.687] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : .
+[2025-01-12T00:18:25.672] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 因为权限组还没迁过来
+[2025-01-12T00:18:27.782] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] 114514
+[2025-01-12T00:18:27.783] [DEBUG] Plugin - [ '114514' ]
+[2025-01-12T00:18:41.910] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 没有
+[2025-01-12T00:18:43.783] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 注册的指令只有/recall和/music163
+[2025-01-12T00:18:48.704] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 其他的不会理
+[2025-01-12T00:19:10.088] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:reply,id=1166879945][CQ:at,qq=3124457529]/recall
+[2025-01-12T00:19:11.340] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 。
+[2025-01-12T00:19:14.386] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : .
+[2025-01-12T00:19:20.921] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 那。。。
+[2025-01-12T00:19:32.820] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 有什么啥用
+[2025-01-12T00:19:36.036] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:reply,id=1166879945][CQ:at,qq=3636990074]/recall
+[2025-01-12T00:19:40.019] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 可以在服务器里听歌吗
+[2025-01-12T00:19:45.782] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 可以
+[2025-01-12T00:19:52.306] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 我之前在别的服务器点过歌
+[2025-01-12T00:19:55.956] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 我tm还真有那个mod
+[2025-01-12T00:20:02.608] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : fabric的
+[2025-01-12T00:20:04.921] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=1166879945]/recall
+[2025-01-12T00:20:21.235] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=1166879945][CQ:at,qq=3636990074]/recall
+[2025-01-12T00:20:21.970] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 插件服当然更简单
+[2025-01-12T00:20:27.220] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : ？？
+[2025-01-12T00:20:31.695] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 666
+[2025-01-12T00:20:49.718] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=1166879945][CQ:at,qq=3636990074] /recall
+[2025-01-12T00:20:49.719] [DEBUG] Plugin - [ '/recall', '1166879945' ]
+[2025-01-12T00:21:40.887] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : [CQ:reply,id=227341938][CQ:at,qq=2641213764] /recall
+[2025-01-12T00:22:16.659] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074]/music163 2658660685
+[2025-01-12T00:22:33.969] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2658660685
+[2025-01-12T00:22:33.969] [DEBUG] Plugin - [ '/music163', '2658660685' ]
+[2025-01-12T00:22:34.593] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : ？
+[2025-01-12T00:22:34.680] [DEBUG] Plugin - Music163_get rawResult: [object Object]
+[2025-01-12T00:22:34.681] [INFO] Plugin - ✨ 指令执行 # /music163 => [{"type":"image","data":{"file":"https://p3.music.126.net/gtunmoxObQyoH01HzURNUw==/109951170292455448.jpg?param=320y320"}},{"type":"text","data":{"text":"解析成功。\n歌曲名：何者\n艺术家：谭晶/HOYO-MiX\n专辑：崩坏星穹铁道-何者 Nameless Faces\n音质：高清环绕声 (Spatial Audio)\n封面Url：https://p3.music.126.net/gtunmoxObQyoH01HzURNUw==/109951170292455448.jpg?param=320y320\n--------------\n歌曲Url：https://m701.music.126.net/20250112004734/f7a97f26f7c08717b4d35312fe530383/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57588816800/a144/d23c/ca01/003b748a980e73c6514db6d6e5fb8864.flac?vuutv=B9U3uU/gc4Ofw8f04BnKoOVNBK0Xpza2/QNj9YWS/T89mIanujbU9agkci/0JxMPlSBjcD4NtHO84XQIFBPAYc0KjdylBCZHi5gdTdf5FQM=\n歌曲时长：02:27\n歌曲大小：55.89MB\n歌曲格式：flac"}}]
+[2025-01-12T00:22:42.680] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 6
+[2025-01-12T00:22:44.476] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 注意格式
+[2025-01-12T00:22:44.728] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 。
+[2025-01-12T00:22:48.149] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 睡觉了
+[2025-01-12T00:22:58.666] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 没做防呆
+[2025-01-12T00:23:00.967] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : @Mahiro Project /music163 2658660685
+[2025-01-12T00:23:17.385] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : at要有颜色
+[2025-01-12T00:23:20.018] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 不能复制
+[2025-01-12T00:23:29.225] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2658660685
+[2025-01-12T00:23:29.226] [DEBUG] Plugin - [ '/music163', '2658660685' ]
+[2025-01-12T00:23:29.875] [DEBUG] Plugin - Music163_get rawResult: [object Object]
+[2025-01-12T00:23:29.876] [INFO] Plugin - ✨ 指令执行 # /music163 => [{"type":"image","data":{"file":"https://p3.music.126.net/gtunmoxObQyoH01HzURNUw==/109951170292455448.jpg?param=320y320"}},{"type":"text","data":{"text":"解析成功。\n歌曲名：何者\n艺术家：谭晶/HOYO-MiX\n专辑：崩坏星穹铁道-何者 Nameless Faces\n音质：高清环绕声 (Spatial Audio)\n封面Url：https://p3.music.126.net/gtunmoxObQyoH01HzURNUw==/109951170292455448.jpg?param=320y320\n--------------\n歌曲Url：https://m801.music.126.net/20250112004829/2148b71620c13930aded7d3c8f980f5d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57588816800/a144/d23c/ca01/003b748a980e73c6514db6d6e5fb8864.flac?vuutv=BKcnTLERzYb9He7vt7F509JIaO99W1jnpBubYQd17OPetLRfKBCun7h0WDvam1v76D7DNcCF7+qU9dPiC0RCFncxvv2vLqYhPTf8sG8zARA=\n歌曲时长：02:27\n歌曲大小：55.89MB\n歌曲格式：flac"}}]
+[2025-01-12T00:23:58.639] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074]/music163 ：¥；hf
+[2025-01-12T00:24:05.180] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : ？
+[2025-01-12T00:24:21.775] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074]/music163 1234567
+[2025-01-12T00:24:26.371] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : draw被键盘电死了
+[2025-01-12T00:24:31.769] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 能卡片发或者聊天记录发吗
+[2025-01-12T00:24:36.285] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:reply,id=1821122029][CQ:at,qq=3124457529]6
+[2025-01-12T00:24:49.584] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:at,qq=3636990074] /music163 2658660685
+[2025-01-12T00:24:49.584] [DEBUG] Plugin - [ '/music163', '2658660685' ]
+[2025-01-12T00:24:49.927] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : [CQ:reply,id=1949183067]这链接打不开啊
+[2025-01-12T00:24:50.218] [DEBUG] Plugin - Music163_get rawResult: [object Object]
+[2025-01-12T00:24:50.219] [INFO] Plugin - ✨ 指令执行 # /music163 => [{"type":"image","data":{"file":"https://p3.music.126.net/gtunmoxObQyoH01HzURNUw==/109951170292455448.jpg?param=320y320"}},{"type":"text","data":{"text":"解析成功。\n歌曲名：何者\n艺术家：谭晶/HOYO-MiX\n专辑：崩坏星穹铁道-何者 Nameless Faces\n音质：高清环绕声 (Spatial Audio)\n封面Url：https://p3.music.126.net/gtunmoxObQyoH01HzURNUw==/109951170292455448.jpg?param=320y320\n--------------\n歌曲Url：https://m701.music.126.net/20250112004949/694cc2105951cd536d264bc600f25eaf/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/57588816800/a144/d23c/ca01/003b748a980e73c6514db6d6e5fb8864.flac?vuutv=2n6VlK1/7FQSqlUebefTzx6gTyNe294bWpfLceVJy3GquXtlkqfFicK0EPEkSD+mPu3Kh9L6BrKza3TZIawqxIbPjUkZxp2OMy+1+bshSPk=\n歌曲时长：02:27\n歌曲大小：55.89MB\n歌曲格式：flac"}}]
+[2025-01-12T00:25:04.387] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 这个流量费和人工哪个贵
+[2025-01-12T00:25:05.368] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 可以打开啊
+[2025-01-12T00:25:18.104] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=306119252][CQ:at,qq=3124457529]肯定人工啊
+[2025-01-12T00:25:30.558] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 我手机
+[2025-01-12T00:25:31.272] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:reply,id=1949183067][CQ:at,qq=656110422]可以的
+[2025-01-12T00:25:33.043] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 流量费贵
+[2025-01-12T00:25:41.731] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : 人工是你
+[2025-01-12T00:25:41.943] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 明天写
+[2025-01-12T00:25:49.873] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 。？
+[2025-01-12T00:25:49.995] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : .
+[2025-01-12T00:26:17.923] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 卡片模版咋写
+[2025-01-12T00:26:32.001] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 聊天记录吧
+[2025-01-12T00:26:59.111] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 也行
+[2025-01-12T00:36:33.871] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:image,file=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639373733303630363030303334317c373435383639373733303630363030303334307c4568544343676d3677755577744f62424e694643346d6130716934434a68694d307959675f776f6f67743239676f337569674d794248427962325251674c326a41566f5132306a6e346150516973743637344a76383569435051.EF637F39777DAB0EE55C5DAC72B28764.png,sub_type=0,file_id=000001464e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639373733303630363030303334317c373435383639373733303630363030303334307c4568544343676d3677755577744f62424e694643346d6130716934434a68694d307959675f776f6f67743239676f337569674d794248427962325251674c326a41566f5132306a6e346150516973743637344a76383569435051.EF637F39777DAB0EE55C5DAC72B28764.png,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhTCCgm6wuUwtObBNiFC4ma0qi4CJhiM0yYg_woogt29go3uigMyBHByb2RQgL2jAVoQ20jn4aPQist674Jv85iCPQ&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=633228,file_unique=ef637f39777dab0ee55c5dac72b28764]
+[2025-01-12T00:36:52.327] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : ？
+[2025-01-12T00:37:00.545] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 左边有种上个世纪的感觉
+[2025-01-12T00:37:12.560] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 雀氏
+[2025-01-12T00:37:19.926] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 在写指令部分
+[2025-01-12T00:37:24.674] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 参考一下老代码
+[2025-01-12T00:43:25.651] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : [CQ:image,file=000001484e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639393439393833383534303334357c373435383639393439393833383534303334347c45685368636b797844324b4b6844374473766a654c6835766e314a4b36426a78757234424950384b4b4971747938614f376f6f444d675277636d396b554943396f774661454279736138437555686c6d415774766d577270496d67.F8BD85B7E51BB6C18A559BBE04396E82.png,sub_type=0,file_id=000001484e61704361744f6e65426f747c4d736746696c657c327c3732323336323831367c373435383639393439393833383534303334357c373435383639393439393833383534303334347c45685368636b797844324b4b6844374473766a654c6835766e314a4b36426a78757234424950384b4b4971747938614f376f6f444d675277636d396b554943396f774661454279736138437555686c6d415774766d577270496d67.F8BD85B7E51BB6C18A559BBE04396E82.png,url=https://multimedia.nt.qq.com.cn/download?appid=1407&fileid=EhShckyxD2KKhD7DsvjeLh5vn1JK6Bjxur4BIP8KKIqty8aO7ooDMgRwcm9kUIC9owFaEBysa8CuUhlmAWtvmWrpImg&rkey=CAQSKAB6JWENi5LM9IjYSAy-4TNzKA-vJH1M_xquNw2mRuhG9ELNrIkr4LU,file_size=3120497,file_unique=f8bd85b7e51bb6c18a559bbe04396e82]
+[2025-01-12T00:43:44.090] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 吴迪了
+[2025-01-12T00:44:10.214] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 这种怎么说
+[2025-01-12T13:47:33.201] [INFO] SapCat - 🔗 连接到 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-12T13:48:02.746] [INFO] SapCat - 🔗 连接到 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-12T13:48:04.758] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 1
+[2025-01-12T13:48:44.582] [INFO] SapCat - 🔗 连接到 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-12T13:49:12.279] [INFO] SapCat - 🔗 连接到 ws://Feath_Dev.local:1314?access_token=love
+[2025-01-12T13:49:13.831] [INFO] SapCat - 📣 群聊消息 # 虾(656110422) -> ¿¿¿(722362816) : 这tm谁啊
+[2025-01-12T13:49:21.627] [INFO] SapCat - 📣 群聊消息 # 轻羽Feath(2641213764) -> ¿¿¿(722362816) : 啥
+[2025-01-12T13:49:25.459] [INFO] SapCat - 📣 群聊消息 # TianYuqwq(3124457529) -> ¿¿¿(722362816) : ?
+[2025-01-12T13:49:45.026] [INFO] SapCat - 🔗 连接到 ws://Feath_Dev.local:1314?access_token=love
